@@ -15,7 +15,7 @@
 ## 🔍 技能
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" width="50%" alt="图片描述">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fromsko&theme=dark&show_icons=true" width="50%" alt="图片描述">
 </p>
 
 - 🗣️ **多语言大师**: 熟悉多种编程语言及框架：
