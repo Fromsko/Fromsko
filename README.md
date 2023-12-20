@@ -20,8 +20,8 @@
 
 - 🗣️ **多语言大师**: 熟悉多种编程语言及框架：
 
-  - `Golang` | `Python` | `Java` | `Lua` | `C++`
-  - `FastAPI` | `Gin` | `Zero` | `Gocolly` | `kratos`
+  - `Golang` | `Python` | `Java` | `Lua`
+  - `FastAPI` | `Gin` | `Zero` | `Gocolly` | `kratos` | `rod`
 
 - 💻 **练习生**: 正在努力学习 `Next.js` | `Vue.js` | `React.js`
 
