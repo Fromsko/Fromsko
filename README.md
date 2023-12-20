@@ -10,7 +10,7 @@
 
 - 一个业余的科班生，热爱编程
 - 现居：`东莞`
-- 擅长：`爬虫` | `React` | `Robot`
+- 擅长：`爬虫` | `React` | `Robot` | `vue` | `Go`
 
 ## 🔍 技能
 
@@ -21,17 +21,11 @@
 - 🗣️ **多语言大师**: 熟悉多种编程语言及框架：
 
   - `Golang` | `Python` | `Java` | `Lua` | `C++`
-  - `FastAPI` | `Gin` | `Zero` | `Gocolly`
+  - `FastAPI` | `Gin` | `Zero` | `Gocolly` | `kratos`
 
 - 💻 **练习生**: 正在努力学习 `Next.js` | `Vue.js` | `React.js`
 
 - 🥰 **探索者**: 对前沿技术含有浓厚兴趣 `bun.sh` | `reflex.dev`
-
-## 🐦 咕咕进度
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fromsko/Fromsko/671fd288404907f60cd58e7d14b8639b9aa16489/github-contribution-grid-snake.svg" width="95%" alt="Dr-net" />
-</p>
 
 ## ⚙️ 咕咕项目
 
