@@ -9,8 +9,8 @@
 </p>
 
 - 一个业余的科班生，热爱编程
-- 现居：`东莞`
-- 擅长：`爬虫` | `React` | `Robot` | `vue` | `Go`
+- 现居：`杭州`
+- 擅长：`AI` | `vue` ｜ `React` | `Next.js` | `Go` | `AndLua`
 
 ## 🔍 技能
 
@@ -18,20 +18,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fromsko&theme=dark&show_icons=true" width="50%" alt="图片描述">
 </p>
 
-- 🗣️ **多语言大师**: 熟悉多种编程语言及框架：
+- 🗣️ **多语言**: 熟悉多种编程语言及框架：
 
   - `Golang` | `Python` | `Java` | `Lua`
-  - `FastAPI` | `Gin` | `Zero` | `Gocolly` | `kratos` | `rod`
+  - `FastAPI` | `Gin` | `fiber` | `Gocolly` | `kratos` | `Tailwindcss`
 
-- 💻 **练习生**: 正在努力学习 `Next.js` | `Vue.js` | `React.js`
+- 💻 **练习生**: 正在努力学习 `Next.js` | `Vue.js` | `React.js` | `SpringAI`
 
-- 🥰 **探索者**: 对前沿技术含有浓厚兴趣 `bun.sh` | `reflex.dev`
+- 🥰 **探索者**: 对前沿技术含有浓厚兴趣 `bun.sh` | `Agent` | `MCP`
 
 ## ⚙️ 咕咕项目
 
 <p align="center">
   <a href="https://github.com/Fromsko/Dr-net">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Fromsko&repo=Dr-net&theme=default" width="50%" alt="Dr-net" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Fromsko&repo=JishouSchedule&theme=default" width="50%" alt="Dr-net" />
   </a>
 </p>
 
