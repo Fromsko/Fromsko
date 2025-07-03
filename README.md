@@ -30,7 +30,7 @@
 ## ⚙️ 咕咕项目
 
 <p align="center">
-  <a href="https://github.com/Fromsko/Dr-net">
+  <a href="https://github.com/Fromsko/JishouSchedule">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Fromsko&repo=JishouSchedule&theme=default" width="50%" alt="Dr-net" />
   </a>
 </p>
