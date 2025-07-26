@@ -5,7 +5,7 @@
 ## 🌟 关于我
 
 <p align="center">
-<img alt="今日诗词" src="https://v2.jinrishici.com/one.svg" align="center">
+<!-- <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg" align="center"> -->
 </p>
 
 - 一个业余的科班生，热爱编程
@@ -30,8 +30,8 @@
 ## ⚙️ 咕咕项目
 
 <p align="center">
-  <a href="https://github.com/Fromsko/JishouSchedule">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Fromsko&repo=JishouSchedule&theme=default" width="50%" alt="Dr-net" />
+  <a href="https://github.com/GUI-for-Cores/Plugin-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=GUI-for-Cores&repo=Plugin-Hub&theme=default" width="50%" alt="Dr-net" />
   </a>
 </p>
 
