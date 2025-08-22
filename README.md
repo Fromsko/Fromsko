@@ -65,4 +65,4 @@ I love exploring and building. Here are some of my recent projects.
 
 I'm always open to new ideas and collaborations. Feel free to reach out\!
 
-*📧 邮箱：* [hnkong666@gmail.com](#关于我)
+*📧 Email：* [hnkong666@gmail.com](#)
