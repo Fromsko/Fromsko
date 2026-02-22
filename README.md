@@ -1,6 +1,10 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fromsko+%3A%3E+Hello+friend%2C+Hello+World" alt="Typing SVG"  align="center"/></a>
-</p\>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fromsko+%3A%3E+Hello+World!&center=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi+there!+I'm+Fromsko&fontSize=50" /></a>
+</p>
 
 ## 👋 About Me
 
@@ -42,22 +46,6 @@ I have experience with various tools for building, deploying, and automating pro
   * **Containerization:** [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/)
   * **CI/CD Automation:** [GitHub Actions](https://github.com/features/actions), [Gitea Actions](https://www.google.com/search?q=https://gitea.io/features/actions)
   * **Developer Tools:** [VS Code Extension Development](https://code.visualstudio.com/api/get-started/your-first-extension)
-
------
-
-## 🚀 Projects I'm Working On
-
-I love exploring and building. Here are some of my recent projects.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fromsko&theme=dark&show_icons=true" width="50%" alt="图片描述">
-</p>
-
-<p align="center">
-  <a href="https://github.com/GUI-for-Cores/Plugin-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=GUI-for-Cores&repo=Plugin-Hub&theme=default" width="50%" alt="Dr-net" />
-  </a>
-</p>
 
 -----
 
